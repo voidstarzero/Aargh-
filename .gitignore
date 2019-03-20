@@ -1,0 +1,45 @@
+# Diff output
+*.patch
+*.diff
+
+# Makefile prerequisites
+*.d
+dep/
+
+# Compiled object files
+*.o
+*.obj
+obj/
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Binary blobs
+*.bin
+*.dump
+
+# Kernel module build files
+*.ko
+*.mod.*
+*.order
+*.symvers
+.*
+
+# Still-wanted dotfiles
+!.gitignore
