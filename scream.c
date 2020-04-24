@@ -1,7 +1,7 @@
 /**
  * A trigger that causes the PC speaker to continuously beep
  *
- * Copyright (c) 2019 voidstarzero
+ * Copyright (c) 2019 James Arcus
  * Copyright (c) 2002 Vojtech Pavlik
  * Copyright (c) 1992 Orest Zborowski
  */
@@ -22,7 +22,7 @@
 #include <linux/spinlock.h>
 #include <linux/uaccess.h>
 
-MODULE_AUTHOR("voidstarzero <46990705+voidstarzero@users.noreply.github.com>");
+MODULE_AUTHOR("James Arcus <jimbo@ucc.asn.au>");
 MODULE_DESCRIPTION("A trigger that beeps continuously");
 MODULE_LICENSE("GPL");
 
